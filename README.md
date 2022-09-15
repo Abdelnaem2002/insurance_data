@@ -1,5 +1,5 @@
 # insurance_data
-This is my first EDA project
+This is my EDA project
 
 **Project steps:
 
